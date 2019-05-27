@@ -2,7 +2,7 @@
 //  CALayer+YQTheme.h
 //  YQTheme
 //
-//  Created by SlashDevelopers on 2018/5/18.
+//  Created by LWH on 2018/05/18.
 //
 
 #import <QuartzCore/QuartzCore.h>

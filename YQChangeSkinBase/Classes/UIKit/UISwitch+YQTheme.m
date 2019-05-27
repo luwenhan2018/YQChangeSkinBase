@@ -2,7 +2,7 @@
 //  UISwitch+YQTheme.m
 //  YQTheme
 //
-//  Created by SlashDevelopers on 2018/5/8.
+//  Created by LWH on 2019/05/08.
 //
 
 #import "UISwitch+YQTheme.h"

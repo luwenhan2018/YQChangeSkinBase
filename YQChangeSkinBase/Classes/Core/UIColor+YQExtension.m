@@ -2,7 +2,7 @@
 //  UIColor+YQExtension.m
 //  YQTheme
 //
-//  Created by SlashDevelopers on 2018/6/7.
+//  Created by LWH on 2018/05/18.
 //
 
 #import "UIColor+YQExtension.h"

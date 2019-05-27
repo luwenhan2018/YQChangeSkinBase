@@ -2,7 +2,7 @@
 //  NSDictionary+YQTheme.m
 //  YQTheme
 //
-//  Created by SlashDevelopers on 2018/5/8.
+//  Created by LWH on 2018/05/08.
 //
 
 #import "NSDictionary+YQTheme.h"

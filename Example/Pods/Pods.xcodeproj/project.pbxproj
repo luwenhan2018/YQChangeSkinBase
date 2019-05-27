@@ -20,7 +20,7 @@
 		261CDCDF74E97D13B1ADE6E23F3BEE16 /* CAShapeLayer+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = F8F773A345DC2574ACFD12AC41C07965 /* CAShapeLayer+YQTheme.m */; };
 		2FB44258A8267B7D5E9B96884F7ED9A9 /* UISwitch+YQTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = 238DD968DAA7FAB6EED796A56EB6CBAA /* UISwitch+YQTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2FDDDA8A4410B4626E79DDE45FB9F608 /* YQThemeManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAC7185AEF642C56AF9948313574C6D /* YQThemeManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		30F725595FCD3021801579F33CA32185 /* UISegmentedControl+SDTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B1AA3F4B6122E883E9EFC81D59A5D4E /* UISegmentedControl+SDTheme.m */; };
+		30F725595FCD3021801579F33CA32185 /* UISegmentedControl+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B1AA3F4B6122E883E9EFC81D59A5D4E /* UISegmentedControl+YQTheme.m */; };
 		32BC375E70C6C3ECB29F5D481F03AE5B /* UIBarItem+YQTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = 8056EB17581CB5BBE47B6EC25E8358F9 /* UIBarItem+YQTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		375D252BFC501E5E38C3F4DAA2F1396B /* UIApplication+YQTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D1813A49658BF344EAD4A9D16C80F08 /* UIApplication+YQTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		49C8452F92E025A4AA79DCEEE624DC9C /* YQThemeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5827816E68EF82B0A41842D82DFB7871 /* YQThemeManager.m */; };
@@ -59,7 +59,7 @@
 		C69E48D9FDD32DC2D46AAA8C73CFAA08 /* UIView+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 510EF987849805336270F99E1BCE39B6 /* UIView+YQTheme.m */; };
 		C6C4FAFA554F0D908403839DBC5AE8E7 /* UIView+YQTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = 122C0DC1012C83586D52927FC42F4E7B /* UIView+YQTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB48CF7E1EFE7785C1D990EB75EF2686 /* UIActivityIndicatorView+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 40C7FBB0676D953E9CB6D7D045875ED4 /* UIActivityIndicatorView+YQTheme.m */; };
-		D253DF5AFB89D33249DB1F5BF43C9AF7 /* UIPageControl+SDTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B3607E4169DC91DAFBB3F38836A4F5 /* UIPageControl+SDTheme.m */; };
+		D253DF5AFB89D33249DB1F5BF43C9AF7 /* UIPageControl+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B3607E4169DC91DAFBB3F38836A4F5 /* UIPageControl+YQTheme.m */; };
 		E823341826917DEBEB9B314F5CAB89A0 /* UITabBarItem+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = ED0D00DC278E77EC2AA339DA42D900EB /* UITabBarItem+YQTheme.m */; };
 		ED1E5293A174C46D462C5BE27B04D09F /* UIBarItem+YQTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ADD88B626E1D91A728CCDA18527A00A /* UIBarItem+YQTheme.m */; };
 		EE6ADFC2530D5158ED63BB07C10A1CFF /* UIButton+YQTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = EC12013D7FCB2D87559186E31BBEA004 /* UIButton+YQTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -111,7 +111,7 @@
 		43A58D66C1865FB88BE6E8F359271D0D /* Pods-YQChangeSkinBase_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YQChangeSkinBase_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		4AAC7185AEF642C56AF9948313574C6D /* YQThemeManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YQThemeManager.h; sourceTree = "<group>"; };
 		4ADD88B626E1D91A728CCDA18527A00A /* UIBarItem+YQTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIBarItem+YQTheme.m"; sourceTree = "<group>"; };
-		4B1AA3F4B6122E883E9EFC81D59A5D4E /* UISegmentedControl+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UISegmentedControl+SDTheme.m"; sourceTree = "<group>"; };
+		4B1AA3F4B6122E883E9EFC81D59A5D4E /* UISegmentedControl+YQTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UISegmentedControl+YQTheme.m"; sourceTree = "<group>"; };
 		510EF987849805336270F99E1BCE39B6 /* UIView+YQTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+YQTheme.m"; sourceTree = "<group>"; };
 		512A263B20A4AFF9D980ED3D6749AA82 /* UITextField+YQTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextField+YQTheme.m"; sourceTree = "<group>"; };
 		54D3A5EA4C864F5264FD1F3BD63E81EB /* Pods-YQChangeSkinBase_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YQChangeSkinBase_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -148,7 +148,7 @@
 		B781459820B1D2DE63F0D3E315BC8A5E /* Pods-YQChangeSkinBase_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YQChangeSkinBase_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C4B75419582847D2EDED2E6F91F808DC /* YQChangeSkinBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YQChangeSkinBase-dummy.m"; sourceTree = "<group>"; };
 		C8C69E4195CE77C7C011D293481CE02C /* CALayer+YQTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CALayer+YQTheme.h"; sourceTree = "<group>"; };
-		C9B3607E4169DC91DAFBB3F38836A4F5 /* UIPageControl+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIPageControl+SDTheme.m"; sourceTree = "<group>"; };
+		C9B3607E4169DC91DAFBB3F38836A4F5 /* UIPageControl+YQTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIPageControl+YQTheme.m"; sourceTree = "<group>"; };
 		D717165DBEB6AF4C27376A84973F003A /* Pods-YQChangeSkinBase_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YQChangeSkinBase_Tests-Info.plist"; sourceTree = "<group>"; };
 		D92E76AF754F8A01C025A0A2121B1115 /* UIImageView+YQTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImageView+YQTheme.h"; sourceTree = "<group>"; };
 		DC80B22A2CAF91BCA4725D348DE424D6 /* YQChangeSkinBase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YQChangeSkinBase-Info.plist"; sourceTree = "<group>"; };
@@ -274,9 +274,9 @@
 				1DBC0A6E062E96511BC2A172F77F6CC0 /* UILabel+YQTheme.m */,
 				313CB00DEC798E555C39AB26C584FA45 /* UINavigationBar+YQTheme.h */,
 				A6F52FA90DE6B045A7705C75DB012525 /* UINavigationBar+YQTheme.m */,
-				C9B3607E4169DC91DAFBB3F38836A4F5 /* UIPageControl+SDTheme.m */,
+				C9B3607E4169DC91DAFBB3F38836A4F5 /* UIPageControl+YQTheme.m */,
 				F0D1DF8E18B48AF318128ED2D74B44E3 /* UIPageControl+YQTheme.h */,
-				4B1AA3F4B6122E883E9EFC81D59A5D4E /* UISegmentedControl+SDTheme.m */,
+				4B1AA3F4B6122E883E9EFC81D59A5D4E /* UISegmentedControl+YQTheme.m */,
 				03657237CDA5379313316ED32A9C6688 /* UISegmentedControl+YQTheme.h */,
 				238DD968DAA7FAB6EED796A56EB6CBAA /* UISwitch+YQTheme.h */,
 				35C482D3FD8F2E98767D3AD9D6CF9171 /* UISwitch+YQTheme.m */,
@@ -581,8 +581,8 @@
 				F11F6F7376D88B0F7DF1EB33AA3AA97D /* UIImageView+YQTheme.m in Sources */,
 				82FC34FAEF39C6727FEDF693AE386A63 /* UILabel+YQTheme.m in Sources */,
 				F1D2691BF05598021C6A52E78CF5EB3E /* UINavigationBar+YQTheme.m in Sources */,
-				D253DF5AFB89D33249DB1F5BF43C9AF7 /* UIPageControl+SDTheme.m in Sources */,
-				30F725595FCD3021801579F33CA32185 /* UISegmentedControl+SDTheme.m in Sources */,
+				D253DF5AFB89D33249DB1F5BF43C9AF7 /* UIPageControl+YQTheme.m in Sources */,
+				30F725595FCD3021801579F33CA32185 /* UISegmentedControl+YQTheme.m in Sources */,
 				254DED918024C30A0DF2D49D0423D1F6 /* UISwitch+YQTheme.m in Sources */,
 				890EC42F2EDEF9300A75E5E0339215B8 /* UITabBar+YQTheme.m in Sources */,
 				E823341826917DEBEB9B314F5CAB89A0 /* UITabBarItem+YQTheme.m in Sources */,

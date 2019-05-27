@@ -2,8 +2,8 @@
 //  UIButton+YQTheme.h
 //  YQTheme
 //
-//  Created by SlashDevelopers on 2018/06/07.
-//  Copyright (c) 2018 SlashDevelopers. All rights reserved
+//  Created by LWH on 2018/06/07.
+//  Copyright (c) 2018 LWH. All rights reserved
 //
 
 #import <UIKit/UIKit.h>

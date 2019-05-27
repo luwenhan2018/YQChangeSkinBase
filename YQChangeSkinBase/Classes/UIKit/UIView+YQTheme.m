@@ -2,8 +2,8 @@
 //  UIView+YQTheme.m
 //  HuashengSecurities
 //
-//  Created by SlashDevelopers on 2018/4/25.
-//  Copyright © 2018年 www.hstong.com. All rights reserved.
+//  Created by LWH on 2019/05/27.
+//  Copyright © 2019 LWH. All rights reserved.
 //
 
 #import "UIView+YQTheme.h"
