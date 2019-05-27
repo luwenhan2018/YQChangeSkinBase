@@ -7,12 +7,19 @@
 //
 
 #import "YQAppDelegate.h"
-
+#import "YQViewController.h"
+#import <YQChangeSkinBase/YQTheme.h>
 @implementation YQAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    [[YQThemeManager sharedInstance] setupThemeNameArray:@[@"YQTheme-White", @"YQTheme-Block"]];
+    [[YQThemeManager sharedInstance] changeTheme:@"YQTheme-Block"];
+    [[UIApplication sharedApplication] theme_setStatusBarColor:@"status_bar_default" animated:YES];
+    YQViewController * vc = [[YQViewController alloc] init];
+    self.window.rootViewController =  vc;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
