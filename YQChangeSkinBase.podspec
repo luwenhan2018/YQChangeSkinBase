@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YQChangeSkinBase'
-  s.version          = '0.2.0'
+  s.version          = '0.1.0'
   s.summary          = 'A skin switching solution.'
 
 # This description is used to generate tags and improve search results.
@@ -40,7 +40,7 @@ TODO: Add long description of the pod here.
   s.subspec 'UIKit' do |ss|
     ss.source_files = 'YQChangeSkinBase/Classes/UIKit/*.{m,h}'
     ss.public_header_files = 'YQChangeSkinBase/Classes/UIKit/*.h'
-    ss.dependency 'SDTheme/Core'
+    ss.dependency 'YQChangeSkinBase/Core'
   end
 
   
